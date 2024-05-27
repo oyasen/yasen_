@@ -1,0 +1,20 @@
+body
+{
+  margin: 0;
+  padding: 0;
+}
+
+#form
+{
+  height: 45vw;
+  align-content: center;
+  text-align: center;
+}
+.input
+{
+  margin: 20px;
+}
+.input input
+{
+  padding: 5px;
+}
